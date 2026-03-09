@@ -29,4 +29,4 @@ print(div)
 
 print("Hello world!")
 print("브랜치 확인용이라고요")
-print("github psuh 잘되나?")
+print("github psuh")
